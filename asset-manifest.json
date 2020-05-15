@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e9c1dac.chunk.css",
-    "main.js": "/static/js/main.c22ea451.chunk.js",
-    "main.js.map": "/static/js/main.c22ea451.chunk.js.map",
+    "main.css": "/static/css/main.d83803ad.chunk.css",
+    "main.js": "/static/js/main.47c290a4.chunk.js",
+    "main.js.map": "/static/js/main.47c290a4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.107bb8ca.js",
     "runtime-main.js.map": "/static/js/runtime-main.107bb8ca.js.map",
     "static/css/2.80a360a7.chunk.css": "/static/css/2.80a360a7.chunk.css",
-    "static/js/2.556383cd.chunk.js": "/static/js/2.556383cd.chunk.js",
-    "static/js/2.556383cd.chunk.js.map": "/static/js/2.556383cd.chunk.js.map",
+    "static/js/2.63fbaf6e.chunk.js": "/static/js/2.63fbaf6e.chunk.js",
+    "static/js/2.63fbaf6e.chunk.js.map": "/static/js/2.63fbaf6e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0af293b485bc5e9978ef8130b6400d42.js": "/precache-manifest.0af293b485bc5e9978ef8130b6400d42.js",
+    "precache-manifest.73ec56e98c486e2d63783deaac79e3a1.js": "/precache-manifest.73ec56e98c486e2d63783deaac79e3a1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.80a360a7.chunk.css.map": "/static/css/2.80a360a7.chunk.css.map",
-    "static/css/main.2e9c1dac.chunk.css.map": "/static/css/main.2e9c1dac.chunk.css.map",
-    "static/js/2.556383cd.chunk.js.LICENSE": "/static/js/2.556383cd.chunk.js.LICENSE",
-    "static/media/BLack.jpg": "/static/media/BLack.b98b6475.jpg",
+    "static/css/main.d83803ad.chunk.css.map": "/static/css/main.d83803ad.chunk.css.map",
+    "static/js/2.63fbaf6e.chunk.js.LICENSE": "/static/js/2.63fbaf6e.chunk.js.LICENSE",
+    "static/media/m.css": "/static/media/BLack.b98b6475.jpg",
+    "static/media/FH.png": "/static/media/FH.e5957e6d.png",
     "static/media/FontsFree-Net-SFProDisplay-Regular.ttf": "/static/media/FontsFree-Net-SFProDisplay-Regular.d09549c1.ttf",
+    "static/media/Glocal.png": "/static/media/Glocal.7d07e64d.png",
     "static/media/SourceCodePro-Regular.ttf": "/static/media/SourceCodePro-Regular.b484b32f.ttf",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.107bb8ca.js",
     "static/css/2.80a360a7.chunk.css",
-    "static/js/2.556383cd.chunk.js",
-    "static/css/main.2e9c1dac.chunk.css",
-    "static/js/main.c22ea451.chunk.js"
+    "static/js/2.63fbaf6e.chunk.js",
+    "static/css/main.d83803ad.chunk.css",
+    "static/js/main.47c290a4.chunk.js"
   ]
 }
